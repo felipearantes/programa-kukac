@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\bin\Debug\ProgramaKukac.exe.config
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\bin\Debug\ProgramaKukac.exe
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\bin\Debug\ProgramaKukac.pdb
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\obj\Debug\ProgramaKukac.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\obj\Debug\ProgramaKukac.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\obj\Debug\ProgramaKukac.exe
+C:\Users\felip\Desktop\FELIPE\ProgramaKukac\ProgramaKukac\obj\Debug\ProgramaKukac.pdb
